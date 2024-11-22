@@ -2,7 +2,7 @@
   "name": "reacttailwindapp",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://shannnish.github.io/BankApp-React-Tailwind-",
+  "homepage": "https://shannnish.github.io/BankApp_React-Tailwind",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
